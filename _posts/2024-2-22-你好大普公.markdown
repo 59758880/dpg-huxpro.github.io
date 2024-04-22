@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"你好 World, 大普公 Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+title:      "您好 大普公"
+subtitle:   " \"你好 World, 大普公 博客\""
+date:       2024-04-22 18:00:00
+author:     "大普公"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
